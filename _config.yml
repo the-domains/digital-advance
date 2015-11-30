@@ -2,12 +2,13 @@ name: Digital Advance
 favicon: null
 layout_spectrum: 0.7558173630386591
 typography_spectrum: 0.03942394978366792
+title: Digital Advance
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-2365589-1
   facebook: null
   twitter: null
 opengraph:
