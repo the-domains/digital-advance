@@ -1,0 +1,28 @@
+name: Digital Advance
+favicon: null
+layout_spectrum: 0.7558173630386591
+typography_spectrum: 0.03942394978366792
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.4127626621630043
+  lightness: 0.19620937295258045
+  saturation: 0.23218678263947368
+  rhythmicContrast: 0.6384518006816506
+purpose: []
